@@ -1,6 +1,6 @@
 # Homebrew Tap for zklense
 
-This is a Homebrew tap for [zklense](https://github.com/jinali98/zk-profiling-solana), a command-line tool for profiling, building, and deploying zero-knowledge proofs built with Noir for Solana Blockchain.
+This is a Homebrew tap for [zklense](https://github.com/jinali98/zk-lense), a command-line tool for profiling, building, and deploying zero-knowledge proofs built with Noir for Solana Blockchain.
 
 ## Installation
 
