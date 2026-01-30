@@ -6,13 +6,13 @@ class Zklense < Formula
 
   on_macos do
     on_intel do
-      url "https://github.com/jinali98/zk-lense/releases/download/v0.1.3/zklense-x86_64-apple-darwin.tar.gz"
-      sha256 "552a743546346e28cf66332cdf131afe2982bb60ec1dc1296f52d4463397b234"
+      url "https://github.com/jinali98/zk-lense/releases/download/v0.1.4/zklense-x86_64-apple-darwin.tar.gz"
+      sha256 "9a62b521802ee16104bba33abd0729fa1e66c6ab39959eba117c6285a5ecbfdb"
     end
 
     on_arm do
-      url "https://github.com/jinali98/zk-lense/releases/download/v0.1.3/zklense-aarch64-apple-darwin.tar.gz"
-      sha256 "4da54dcb8e2cbb283968fa79c333000eb5b3b862f0acbabbcfdde4a4633b53ba"
+      url "https://github.com/jinali98/zk-lense/releases/download/v0.1.4/zklense-aarch64-apple-darwin.tar.gz"
+      sha256 "16a108de3403c2d865c6a91fcc6d230fc17e9caea6917866b36df6825c772062"
     end
   end
 
